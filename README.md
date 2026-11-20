@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Execution
 
 ```bash
-python rate_limiter.py
+python Redis.py
 ```
 
 ## Example
